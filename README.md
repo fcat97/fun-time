@@ -7,7 +7,7 @@ A funny Kotlin Date library
 
 ```kotlin
 val a = 3 days more from today // add 3 days with today
-val b = 5 minutes earlier from now // 5 minute earlier from now..
+val b = 5 minutes less from now // 5 minute earlier from now..
 ```
 
 ***Just for fun***
